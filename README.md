@@ -4,7 +4,7 @@ A proof-of-concept port of eeti.me to Slim 3
 # Version 1.1
 
 ## To-do list
-All upcoming and completed features, bugfixes, etc are listed [on the Trello board](https://trello.com/b/e5rzo48n/sleeti). Suggestions should be submitted through Github issues.
+All upcoming and completed features, bugfixes, etc are listed [on the Trello board](https://trello.com/b/e5rzo48n/sleeti). Suggestions should be submitted through GitHub issues.
 
 ## Installation
 ### Prerequisites
